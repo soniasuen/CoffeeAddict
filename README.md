@@ -1,5 +1,5 @@
-Prototype Website
+PROTOTYPE WEBSITE
 =================
 
-Built by [TienxHongxSon]
+The Best Prototype Website Ever
 
